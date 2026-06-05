@@ -1,13 +1,8 @@
 {
   "name": "ASHCHAIN",
   "chain": "ASH",
-  "rpc": [
-    "https://evm-rpc.ashchain.io",
-    "https://evm-rpc2.ashchain.io"
-  ],
-  "faucets": [
-    "https://ashchain.io/faucet"
-  ],
+  "rpc": ["https://evm-rpc.ashchain.io", "https://evm-rpc2.ashchain.io"],
+  "faucets": ["https://ashchain.io/faucet"],
   "nativeCurrency": {
     "name": "ASH",
     "symbol": "ASH",
